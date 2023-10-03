@@ -1,0 +1,5 @@
+name: Throwables
+main: space.rimgro.throwables.ThrowablesPlugin
+version: 1.0
+api-version: 1.16
+description: A plugin that makes items throwable

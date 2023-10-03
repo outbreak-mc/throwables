@@ -1,0 +1,9 @@
+throwables:
+  explosive:
+    block-hit:
+      - EXPLOSION:2.0
+    entity-hit:
+      - EXPLOSION:1.0
+  damaging:
+    entity-hit:
+      - DAMAGE:10.0
